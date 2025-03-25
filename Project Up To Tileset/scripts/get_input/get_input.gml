@@ -6,9 +6,9 @@ function get_input(){
 	right = keyboard_check(vk_right);
 	up = keyboard_check(vk_up);
 	down = keyboard_check(vk_down);
-	attack = keyboard_check_pressed(vk_shift);
-	jump = keyboard_check_pressed(vk_space);
-	jump_held = keyboard_check(vk_space);	
+	attack = keyboard_check_pressed(vk_space);
+	jump = keyboard_check_pressed(vk_up);
+	jump_held = keyboard_check(vk_up);	
 	block     = keyboard_check(ord("Z"));	
 
 	//controller input
