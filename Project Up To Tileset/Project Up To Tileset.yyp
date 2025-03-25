@@ -33,7 +33,7 @@
   "isEcma":false,
   "LibraryEmitters":[],
   "MetaData":{
-    "IDEVersion":"2.3.6.595",
+    "IDEVersion":"2024.11.0.179",
   },
   "name":"Project Up To Tileset",
   "resources":[
@@ -71,8 +71,10 @@
     {"id":{"name":"s_player_idle","path":"sprites/s_player_idle/s_player_idle.yy",},},
     {"id":{"name":"s_player_jump","path":"sprites/s_player_jump/s_player_jump.yy",},},
     {"id":{"name":"s_player_walk","path":"sprites/s_player_walk/s_player_walk.yy",},},
+    {"id":{"name":"s_tile_castle","path":"sprites/s_tile_castle/s_tile_castle.yy",},},
     {"id":{"name":"s_tile_collisions","path":"sprites/s_tile_collisions/s_tile_collisions.yy",},},
     {"id":{"name":"t_collisions","path":"tilesets/t_collisions/t_collisions.yy",},},
+    {"id":{"name":"TileSet2","path":"tilesets/TileSet2/TileSet2.yy",},},
   ],
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
