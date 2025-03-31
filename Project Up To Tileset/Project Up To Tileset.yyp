@@ -52,6 +52,7 @@
     {"id":{"name":"rm_init","path":"rooms/rm_init/rm_init.yy",},},
     {"id":{"name":"anim","path":"scripts/anim/anim.yy",},},
     {"id":{"name":"block_check","path":"scripts/block_check/block_check.yy",},},
+    {"id":{"name":"breathing","path":"scripts/breathing/breathing.yy",},},
     {"id":{"name":"calc_movement","path":"scripts/calc_movement/calc_movement.yy",},},
     {"id":{"name":"collision","path":"scripts/collision/collision.yy",},},
     {"id":{"name":"frog_anim","path":"scripts/frog_anim/frog_anim.yy",},},

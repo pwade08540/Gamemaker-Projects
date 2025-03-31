@@ -10,6 +10,11 @@ hsp_decimal = 0;
 vsp_decimal = 0;
 facing = choose(-1,1);
 
+//breathing
+breath_timer_intial = random_range(room_speed * 1.75, room_speed * 2.25);
+breath_timer = breath_timer_intial;
+image_speed = 0;
+
 //states
 enum frog_states {
 	IDLE	
