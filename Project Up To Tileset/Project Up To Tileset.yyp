@@ -203,6 +203,8 @@
     {"id":{"name":"player_idle_state","path":"scripts/player_idle_state/player_idle_state.yy",},},
     {"id":{"name":"player_jump_state","path":"scripts/player_jump_state/player_jump_state.yy",},},
     {"id":{"name":"player_walk_state","path":"scripts/player_walk_state/player_walk_state.yy",},},
+    {"id":{"name":"Earth_Theme","path":"sounds/Earth_Theme/Earth_Theme.yy",},},
+    {"id":{"name":"Water_Theme_My_Heart_Will_Go_On","path":"sounds/Water_Theme_My_Heart_Will_Go_On/Water_Theme_My_Heart_Will_Go_On.yy",},},
     {"id":{"name":"Cave_Layer1","path":"sprites/Cave_Layer1/Cave_Layer1.yy",},},
     {"id":{"name":"Cave_Layer2","path":"sprites/Cave_Layer2/Cave_Layer2.yy",},},
     {"id":{"name":"Cave_Layer3","path":"sprites/Cave_Layer3/Cave_Layer3.yy",},},

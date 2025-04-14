@@ -1,0 +1,25 @@
+{
+  "$GMSound":"",
+  "%Name":"Water_Theme_My_Heart_Will_Go_On",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "bitRate":128,
+  "compression":0,
+  "conversionMode":0,
+  "duration":280.128,
+  "name":"Water_Theme_My_Heart_Will_Go_On",
+  "parent":{
+    "name":"Project Up To Tileset",
+    "path":"Project Up To Tileset.yyp",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"Water_Theme_My_Heart_Will_Go_On.mp3",
+  "type":0,
+  "volume":1.0,
+}
