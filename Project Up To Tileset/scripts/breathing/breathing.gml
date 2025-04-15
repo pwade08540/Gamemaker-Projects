@@ -8,7 +8,7 @@ function breathing(){
 	breath_timer--;
 	}
 	if image_index >= image_number - image_speed {
-		breath_timer = breath_timer_intial;
+		breath_timer = breath_timer_initial;
 		//pause at the first frame
 		image_index = 0;
 		image_speed = 0;
