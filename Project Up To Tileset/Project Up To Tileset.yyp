@@ -44,7 +44,6 @@
     {"id":{"name":"o_player","path":"objects/o_player/o_player.yy",},},
     {"id":{"name":"rm_00","path":"rooms/rm_00/rm_00.yy",},},
     {"id":{"name":"rm_init","path":"rooms/rm_init/rm_init.yy",},},
-    {"id":{"name":"Room3","path":"rooms/Room3/Room3.yy",},},
     {"id":{"name":"anim","path":"scripts/anim/anim.yy",},},
     {"id":{"name":"block_check","path":"scripts/block_check/block_check.yy",},},
     {"id":{"name":"calc_movement","path":"scripts/calc_movement/calc_movement.yy",},},
@@ -61,6 +60,8 @@
     {"id":{"name":"player_idle_state","path":"scripts/player_idle_state/player_idle_state.yy",},},
     {"id":{"name":"player_jump_state","path":"scripts/player_jump_state/player_jump_state.yy",},},
     {"id":{"name":"player_walk_state","path":"scripts/player_walk_state/player_walk_state.yy",},},
+    {"id":{"name":"Background_Bird_Nest_Scary","path":"sprites/Background_Bird_Nest_Scary/Background_Bird_Nest_Scary.yy",},},
+    {"id":{"name":"Background_Bird_Nest","path":"sprites/Background_Bird_Nest/Background_Bird_Nest.yy",},},
     {"id":{"name":"Bird_Adult","path":"sprites/Bird_Adult/Bird_Adult.yy",},},
     {"id":{"name":"s_player_air_attack","path":"sprites/s_player_air_attack/s_player_air_attack.yy",},},
     {"id":{"name":"s_player_attack_walk","path":"sprites/s_player_attack_walk/s_player_attack_walk.yy",},},
@@ -81,7 +82,6 @@
   "RoomOrderNodes":[
     {"roomId":{"name":"rm_init","path":"rooms/rm_init/rm_init.yy",},},
     {"roomId":{"name":"rm_00","path":"rooms/rm_00/rm_00.yy",},},
-    {"roomId":{"name":"Room3","path":"rooms/Room3/Room3.yy",},},
   ],
   "templateType":null,
   "TextureGroups":[
