@@ -2,9 +2,9 @@
   "$GMSprite":"",
   "%Name":"cricket",
   "bboxMode":0,
-  "bbox_bottom":285,
+  "bbox_bottom":39,
   "bbox_left":0,
-  "bbox_right":413,
+  "bbox_right":37,
   "bbox_top":0,
   "collisionKind":1,
   "collisionTolerance":0,
@@ -12,14 +12,19 @@
   "edgeFiltering":false,
   "For3D":false,
   "frames":[
-    {"$GMSpriteFrame":"","%Name":"3491749d-f2c6-4fe4-a18e-503d55713606","name":"3491749d-f2c6-4fe4-a18e-503d55713606","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"","%Name":"4b2669f4-3ee0-4662-a6d7-a17ec35babd0","name":"4b2669f4-3ee0-4662-a6d7-a17ec35babd0","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"","%Name":"1278be6f-7f41-444d-8f2e-2d92fcc470cc","name":"1278be6f-7f41-444d-8f2e-2d92fcc470cc","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"","%Name":"cfc6512a-824e-4d3e-9d45-e2ea67a8cc49","name":"cfc6512a-824e-4d3e-9d45-e2ea67a8cc49","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"","%Name":"7e237e52-8f19-4a84-af97-4fb45f8aee10","name":"7e237e52-8f19-4a84-af97-4fb45f8aee10","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"","%Name":"c520aad4-959e-4174-af0b-ad83f1803fff","name":"c520aad4-959e-4174-af0b-ad83f1803fff","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"","%Name":"bf986175-6e99-4b98-a766-6a90768e3710","name":"bf986175-6e99-4b98-a766-6a90768e3710","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
   ],
-  "gridX":0,
-  "gridY":0,
-  "height":286,
+  "gridX":8,
+  "gridY":8,
+  "height":40,
   "HTile":false,
   "layers":[
-    {"$GMImageLayer":"","%Name":"7448ee7e-8840-48ba-8823-b9223d2623c4","blendMode":0,"displayName":"default","isLocked":false,"name":"7448ee7e-8840-48ba-8823-b9223d2623c4","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
+    {"$GMImageLayer":"","%Name":"e7501da0-eabd-4b49-9062-10ffb00a4322","blendMode":0,"displayName":"default","isLocked":false,"name":"e7501da0-eabd-4b49-9062-10ffb00a4322","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
   ],
   "name":"cricket",
   "nineSlice":null,
@@ -49,7 +54,7 @@
     },
     "eventStubScript":null,
     "eventToFunction":{},
-    "length":1.0,
+    "length":6.0,
     "lockOrigin":false,
     "moments":{
       "$KeyframeStore<MomentsEventKeyframe>":"",
@@ -59,7 +64,7 @@
     },
     "name":"cricket",
     "playback":1,
-    "playbackSpeed":30.0,
+    "playbackSpeed":8.0,
     "playbackSpeedType":0,
     "resourceType":"GMSequence",
     "resourceVersion":"2.0",
@@ -69,8 +74,23 @@
     "tracks":[
       {"$GMSpriteFramesTrack":"","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"$KeyframeStore<SpriteFrameKeyframe>":"","Keyframes":[
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"3491749d-f2c6-4fe4-a18e-503d55713606","path":"sprites/cricket/cricket.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"e73ae549-bd91-4c3b-aff4-bebd2c13efe9","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"4b2669f4-3ee0-4662-a6d7-a17ec35babd0","path":"sprites/cricket/cricket.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+              },"Disabled":false,"id":"eb8f7294-bf59-4977-b2b4-ae775f363a11","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"1278be6f-7f41-444d-8f2e-2d92fcc470cc","path":"sprites/cricket/cricket.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+              },"Disabled":false,"id":"87660eff-fd7d-47b0-b117-db79205ffc2d","IsCreationKey":false,"Key":1.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"cfc6512a-824e-4d3e-9d45-e2ea67a8cc49","path":"sprites/cricket/cricket.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+              },"Disabled":false,"id":"797e75fa-7564-4ced-b3f6-05721d3013ac","IsCreationKey":false,"Key":2.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"7e237e52-8f19-4a84-af97-4fb45f8aee10","path":"sprites/cricket/cricket.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+              },"Disabled":false,"id":"394f1938-386e-41bd-a01e-e2a572d5b604","IsCreationKey":false,"Key":3.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"c520aad4-959e-4174-af0b-ad83f1803fff","path":"sprites/cricket/cricket.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+              },"Disabled":false,"id":"a24f9528-c589-43ca-9f79-fc2a51e01515","IsCreationKey":false,"Key":4.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"bf986175-6e99-4b98-a766-6a90768e3710","path":"sprites/cricket/cricket.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+              },"Disabled":false,"id":"22f841df-6cb9-4382-a88a-f8e16102249b","IsCreationKey":false,"Key":5.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
           ],"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"2.0",},"modifiers":[],"name":"frames","resourceType":"GMSpriteFramesTrack","resourceVersion":"2.0","spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange":null,
@@ -86,5 +106,5 @@
   },
   "type":0,
   "VTile":false,
-  "width":414,
+  "width":38,
 }
