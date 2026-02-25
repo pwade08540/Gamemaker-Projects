@@ -4,6 +4,8 @@ hsp = 0;
 vsp = 0;
 max_spd = 2;
 walk_spd = 1.5;
+max_run_spd = 4;
+run_spd = 3;
 jump_spd = -5;
 jump_dampner = 2.5;
 jumps_initial = 2;
@@ -36,7 +38,9 @@ enum states {
 	ATTACK,
 	BLOCK,
 	CROUCH,
-	CROUCH_BLOCK
+	CROUCH_BLOCK,
+	RUN,
+	DANCE
 }
 
 state = states.IDLE;
@@ -49,6 +53,9 @@ states_array[states.ATTACK]			= player_attack_state;
 states_array[states.BLOCK]			= player_block_state;
 states_array[states.CROUCH]			= player_crouch_state;
 states_array[states.CROUCH_BLOCK]	= player_crouch_block_state;
+states_array[states.RUN]			= player_run_state;
+states_array[states.DANCE]			= player_dance_state;
+
 
 //create sprites array
 sprites_array[states.IDLE]			= s_player_idle;
@@ -58,6 +65,8 @@ sprites_array[states.ATTACK]		= s_player_attack;
 sprites_array[states.BLOCK]			= s_player_block;
 sprites_array[states.CROUCH]		= s_player_crouch;
 sprites_array[states.CROUCH_BLOCK]	= s_player_crouch_block;
+sprites_array[states.RUN]			= s_player_idle;
+sprites_array[states.DANCE]			= s_player_crouch_block;
 
 //create mask array
 mask_array[states.IDLE]			= s_player_idle;
@@ -67,3 +76,5 @@ mask_array[states.ATTACK]		= s_player_idle;
 mask_array[states.BLOCK]		= s_player_idle;
 mask_array[states.CROUCH]		= s_player_crouch;
 mask_array[states.CROUCH_BLOCK]	= s_player_crouch;
+mask_array[states.RUN]			= s_player_idle;
+mask_array[states.DANCE]		= s_player_idle;

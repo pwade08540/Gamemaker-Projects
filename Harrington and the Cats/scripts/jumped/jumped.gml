@@ -8,3 +8,5 @@ function jumped(){
 		jump_dust();
 	}
 }
+
+	

@@ -26,6 +26,10 @@ function player_idle_state(){
 		state = states.CROUCH;
 		hsp = 0;
 	}
+	if jewelry {
+		state = states.RUN;
+		
+	}
 	
 	//apply movement
 	collision();

@@ -37,6 +37,11 @@ function player_walk_state(){
 		hsp = 0;
 	}
 	
+	if jewelry {
+		state = states.RUN;
+		
+	}
+	
 	//apply movement
 	collision();
 
