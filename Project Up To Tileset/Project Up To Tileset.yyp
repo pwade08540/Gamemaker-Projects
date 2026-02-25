@@ -79,7 +79,11 @@
     {"id":{"name":"s_player_jump","path":"sprites/s_player_jump/s_player_jump.yy",},},
     {"id":{"name":"s_player_walk","path":"sprites/s_player_walk/s_player_walk.yy",},},
     {"id":{"name":"s_tile_collisions","path":"sprites/s_tile_collisions/s_tile_collisions.yy",},},
+<<<<<<< Updated upstream
     {"id":{"name":"testingToUnderstand","path":"sprites/testingToUnderstand/testingToUnderstand.yy",},},
+=======
+    {"id":{"name":"Tree_Nest_bird","path":"sprites/Tree_Nest_bird/Tree_Nest_bird.yy",},},
+>>>>>>> Stashed changes
     {"id":{"name":"t_collisions","path":"tilesets/t_collisions/t_collisions.yy",},},
   ],
   "resourceType":"GMProject",
