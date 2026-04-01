@@ -11,6 +11,16 @@ function get_input(){
 	jump_held	= keyboard_check(vk_space);	
 	block		= keyboard_check(ord("Z"));	
 	jewelry     = keyboard_check(ord("J"));	
+	dance		= keyboard_check(ord("d"));
+	
+	
+	
+	
+	
+	
+	
+	
+
 
 	//controller input
 	var _dev = 0;

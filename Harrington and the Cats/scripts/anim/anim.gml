@@ -14,5 +14,8 @@ function anim(){
 			if hsp != 0	sprite_index = s_player_attack_walk else
 				sprite_index = s_player_attack;
 		break;
+		case states.RUN:
+			if hsp = 0 sprite_index = s_player_idle else sprite_index = s_player_run;
+		break;	
 	}
 }

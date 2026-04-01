@@ -35,6 +35,7 @@
     {"name":"s_player_idle_1","order":11,"path":"sprites/s_player_idle_1/s_player_idle_1.yy",},
     {"name":"s_player_idle","order":8,"path":"sprites/s_player_idle/s_player_idle.yy",},
     {"name":"s_player_jump","order":3,"path":"sprites/s_player_jump/s_player_jump.yy",},
+    {"name":"s_player_run","order":12,"path":"sprites/s_player_run/s_player_run.yy",},
     {"name":"s_player_walk","order":2,"path":"sprites/s_player_walk/s_player_walk.yy",},
   ],
 }
