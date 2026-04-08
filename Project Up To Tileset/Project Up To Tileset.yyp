@@ -82,6 +82,7 @@
     {"id":{"name":"s_tile_collisions","path":"sprites/s_tile_collisions/s_tile_collisions.yy",},},
     {"id":{"name":"Sprite21","path":"sprites/Sprite21/Sprite21.yy",},},
     {"id":{"name":"Sprite22","path":"sprites/Sprite22/Sprite22.yy",},},
+    {"id":{"name":"Sprite23","path":"sprites/Sprite23/Sprite23.yy",},},
     {"id":{"name":"testingToUnderstand","path":"sprites/testingToUnderstand/testingToUnderstand.yy",},},
     {"id":{"name":"t_collisions","path":"tilesets/t_collisions/t_collisions.yy",},},
   ],
