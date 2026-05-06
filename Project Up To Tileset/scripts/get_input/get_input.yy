@@ -6,7 +6,7 @@
   "name":"get_input",
   "parent":{
     "name":"Scripts",
-    "path":"folders/Notes/Scripts.yy",
+    "path":"folders/Scripts.yy",
   },
   "resourceType":"GMScript",
   "resourceVersion":"2.0",
