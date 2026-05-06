@@ -2,9 +2,9 @@
   "$GMSprite":"",
   "%Name":"Background_Bird_Nest",
   "bboxMode":0,
-  "bbox_bottom":173,
+  "bbox_bottom":191,
   "bbox_left":0,
-  "bbox_right":289,
+  "bbox_right":319,
   "bbox_top":0,
   "collisionKind":1,
   "collisionTolerance":0,
@@ -14,9 +14,9 @@
   "frames":[
     {"$GMSpriteFrame":"","%Name":"22bebc4d-0501-4ec7-aee2-10d534d7aad4","name":"22bebc4d-0501-4ec7-aee2-10d534d7aad4","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
   ],
-  "gridX":0,
-  "gridY":0,
-  "height":174,
+  "gridX":32,
+  "gridY":32,
+  "height":192,
   "HTile":false,
   "layers":[
     {"$GMImageLayer":"","%Name":"16f202af-7fd4-483a-8dff-9c029d2fc105","blendMode":0,"displayName":"default","isLocked":false,"name":"16f202af-7fd4-483a-8dff-9c029d2fc105","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
@@ -86,5 +86,5 @@
   },
   "type":0,
   "VTile":false,
-  "width":290,
+  "width":320,
 }

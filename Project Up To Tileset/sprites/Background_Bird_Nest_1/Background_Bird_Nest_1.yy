@@ -1,6 +1,6 @@
 {
   "$GMSprite":"",
-  "%Name":"Background_Bird_Nest_Scary",
+  "%Name":"Background_Bird_Nest_1",
   "bboxMode":0,
   "bbox_bottom":191,
   "bbox_left":0,
@@ -12,16 +12,16 @@
   "edgeFiltering":false,
   "For3D":false,
   "frames":[
-    {"$GMSpriteFrame":"","%Name":"86b25acd-1776-4412-a4e7-2ff7adc25698","name":"86b25acd-1776-4412-a4e7-2ff7adc25698","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"","%Name":"22bebc4d-0501-4ec7-aee2-10d534d7aad4","name":"22bebc4d-0501-4ec7-aee2-10d534d7aad4","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
   ],
-  "gridX":0,
-  "gridY":0,
+  "gridX":32,
+  "gridY":32,
   "height":192,
   "HTile":false,
   "layers":[
-    {"$GMImageLayer":"","%Name":"947b8b1b-82d2-4b43-a400-986b48d2e365","blendMode":0,"displayName":"default","isLocked":false,"name":"947b8b1b-82d2-4b43-a400-986b48d2e365","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
+    {"$GMImageLayer":"","%Name":"16f202af-7fd4-483a-8dff-9c029d2fc105","blendMode":0,"displayName":"default","isLocked":false,"name":"16f202af-7fd4-483a-8dff-9c029d2fc105","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
   ],
-  "name":"Background_Bird_Nest_Scary",
+  "name":"Background_Bird_Nest_1",
   "nineSlice":null,
   "origin":0,
   "parent":{
@@ -33,7 +33,7 @@
   "resourceVersion":"2.0",
   "sequence":{
     "$GMSequence":"",
-    "%Name":"Background_Bird_Nest_Scary",
+    "%Name":"Background_Bird_Nest",
     "autoRecord":true,
     "backdropHeight":768,
     "backdropImageOpacity":0.5,
@@ -57,7 +57,7 @@
       "resourceType":"KeyframeStore<MomentsEventKeyframe>",
       "resourceVersion":"2.0",
     },
-    "name":"Background_Bird_Nest_Scary",
+    "name":"Background_Bird_Nest",
     "playback":1,
     "playbackSpeed":30.0,
     "playbackSpeedType":0,
@@ -69,8 +69,8 @@
     "tracks":[
       {"$GMSpriteFramesTrack":"","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"$KeyframeStore<SpriteFrameKeyframe>":"","Keyframes":[
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"86b25acd-1776-4412-a4e7-2ff7adc25698","path":"sprites/Background_Bird_Nest_Scary/Background_Bird_Nest_Scary.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"6c5d6b42-8f1d-4708-b93e-05d8b17c8ab4","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"22bebc4d-0501-4ec7-aee2-10d534d7aad4","path":"sprites/Background_Bird_Nest_1/Background_Bird_Nest_1.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+              },"Disabled":false,"id":"5d159ebf-2835-4a4d-9e90-4914cdbc6d49","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
           ],"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"2.0",},"modifiers":[],"name":"frames","resourceType":"GMSpriteFramesTrack","resourceVersion":"2.0","spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange":null,
