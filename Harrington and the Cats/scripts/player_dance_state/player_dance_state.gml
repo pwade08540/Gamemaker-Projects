@@ -27,6 +27,10 @@ function player_dance_state(){
 		hsp = 0;
 	}
 	
+	if dance {
+	state = states.DANCE
+	}
+	
 	//apply movement
 	collision();
 

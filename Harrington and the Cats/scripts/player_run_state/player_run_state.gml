@@ -16,7 +16,7 @@ function player_run_state(){
 	
 	if t1 == VOID and t2 == VOID {
 		state = states.JUMP;
-		jumps = 1;
+		jumps = 0.001;
 	}
 
 	if attack {

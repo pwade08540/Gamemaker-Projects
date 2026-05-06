@@ -86,6 +86,7 @@
     {"id":{"name":"s_player_idle_1","path":"sprites/s_player_idle_1/s_player_idle_1.yy",},},
     {"id":{"name":"s_player_idle","path":"sprites/s_player_idle/s_player_idle.yy",},},
     {"id":{"name":"s_player_jump","path":"sprites/s_player_jump/s_player_jump.yy",},},
+    {"id":{"name":"s_player_run","path":"sprites/s_player_run/s_player_run.yy",},},
     {"id":{"name":"s_player_walk","path":"sprites/s_player_walk/s_player_walk.yy",},},
     {"id":{"name":"s_tile_collisions","path":"sprites/s_tile_collisions/s_tile_collisions.yy",},},
     {"id":{"name":"t_collisions","path":"tilesets/t_collisions/t_collisions.yy",},},
