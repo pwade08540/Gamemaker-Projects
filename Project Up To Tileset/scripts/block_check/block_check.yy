@@ -6,7 +6,7 @@
   "name":"block_check",
   "parent":{
     "name":"Player",
-    "path":"folders/Scripts/Player.yy",
+    "path":"folders/Notes/Scripts/Player.yy",
   },
   "resourceType":"GMScript",
   "resourceVersion":"2.0",
