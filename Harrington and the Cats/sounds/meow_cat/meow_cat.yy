@@ -1,0 +1,26 @@
+{
+  "$GMSound":"v2",
+  "%Name":"meow_cat",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "channelFormat":0,
+  "compression":0,
+  "compressionQuality":4,
+  "conversionMode":0,
+  "duration":0.84752834,
+  "exportDir":"",
+  "name":"meow_cat",
+  "parent":{
+    "name":"Sounds",
+    "path":"folders/Sounds.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"meow_cat.mp3",
+  "volume":1.0,
+}

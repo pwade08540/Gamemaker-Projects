@@ -1,7 +1,10 @@
 {
   "$GMObject":"",
   "%Name":"o_animalcontrol",
-  "eventList":[],
+  "eventList":[
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+  ],
   "managed":true,
   "name":"o_animalcontrol",
   "overriddenProperties":[],
@@ -28,8 +31,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"s_animalscontrol",
-    "path":"sprites/s_animalscontrol/s_animalscontrol.yy",
+    "name":"s_animalscontrol_idle",
+    "path":"sprites/s_animalscontrol_idle/s_animalscontrol_idle.yy",
   },
   "spriteMaskId":null,
   "visible":true,
