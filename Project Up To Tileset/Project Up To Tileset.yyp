@@ -38,6 +38,7 @@
   },
   "name":"Project Up To Tileset",
   "resources":[
+    {"id":{"name":"nextRoom","path":"objects/nextRoom/nextRoom.yy",},},
     {"id":{"name":"o_camera","path":"objects/o_camera/o_camera.yy",},},
     {"id":{"name":"o_game","path":"objects/o_game/o_game.yy",},},
     {"id":{"name":"o_player_dust_jump","path":"objects/o_player_dust_jump/o_player_dust_jump.yy",},},
@@ -45,6 +46,7 @@
     {"id":{"name":"o_player","path":"objects/o_player/o_player.yy",},},
     {"id":{"name":"rm_00","path":"rooms/rm_00/rm_00.yy",},},
     {"id":{"name":"rm_init","path":"rooms/rm_init/rm_init.yy",},},
+    {"id":{"name":"Room3","path":"rooms/Room3/Room3.yy",},},
     {"id":{"name":"anim","path":"scripts/anim/anim.yy",},},
     {"id":{"name":"block_check","path":"scripts/block_check/block_check.yy",},},
     {"id":{"name":"calc_movement","path":"scripts/calc_movement/calc_movement.yy",},},
@@ -64,6 +66,7 @@
     {"id":{"name":"ant_walk","path":"sprites/ant_walk/ant_walk.yy",},},
     {"id":{"name":"antlion","path":"sprites/antlion/antlion.yy",},},
     {"id":{"name":"Audience_Members","path":"sprites/Audience_Members/Audience_Members.yy",},},
+    {"id":{"name":"Background_Bird_Nest_1","path":"sprites/Background_Bird_Nest_1/Background_Bird_Nest_1.yy",},},
     {"id":{"name":"Background_Bird_Nest_Scary","path":"sprites/Background_Bird_Nest_Scary/Background_Bird_Nest_Scary.yy",},},
     {"id":{"name":"Background_Bird_Nest","path":"sprites/Background_Bird_Nest/Background_Bird_Nest.yy",},},
     {"id":{"name":"Bird_Adult","path":"sprites/Bird_Adult/Bird_Adult.yy",},},
@@ -94,6 +97,7 @@
   "RoomOrderNodes":[
     {"roomId":{"name":"rm_init","path":"rooms/rm_init/rm_init.yy",},},
     {"roomId":{"name":"rm_00","path":"rooms/rm_00/rm_00.yy",},},
+    {"roomId":{"name":"Room3","path":"rooms/Room3/Room3.yy",},},
   ],
   "templateType":null,
   "TextureGroups":[

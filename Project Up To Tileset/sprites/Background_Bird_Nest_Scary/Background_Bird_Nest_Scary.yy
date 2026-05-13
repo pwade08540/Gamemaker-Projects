@@ -2,9 +2,9 @@
   "$GMSprite":"",
   "%Name":"Background_Bird_Nest_Scary",
   "bboxMode":0,
-  "bbox_bottom":173,
+  "bbox_bottom":191,
   "bbox_left":0,
-  "bbox_right":289,
+  "bbox_right":319,
   "bbox_top":0,
   "collisionKind":1,
   "collisionTolerance":0,
@@ -16,7 +16,7 @@
   ],
   "gridX":0,
   "gridY":0,
-  "height":174,
+  "height":192,
   "HTile":false,
   "layers":[
     {"$GMImageLayer":"","%Name":"947b8b1b-82d2-4b43-a400-986b48d2e365","blendMode":0,"displayName":"default","isLocked":false,"name":"947b8b1b-82d2-4b43-a400-986b48d2e365","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
@@ -86,5 +86,5 @@
   },
   "type":0,
   "VTile":false,
-  "width":290,
+  "width":320,
 }
