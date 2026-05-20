@@ -14,6 +14,7 @@ function player_attack_state(){
 	if jump {
 		jumped();
 		state = states.ATTACK;
+		
 	}
 	
 	//enable smaller jumps

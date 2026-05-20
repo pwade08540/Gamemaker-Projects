@@ -6,11 +6,15 @@ function player_idle_state(){
 	calc_movement();
 
 	//check state
-	if hsp != 0 state = states.WALK;
-
+	if hsp != 0 {
+		
+		state = states.WALK;
+		audio_play_sound(meow_cat,10,false,1,,);
+	}
 	if attack {
 		state = states.ATTACK;
 		image_index = 0;
+		audio_play_sound(angry_cat_meow,10,false,1,,);
 	}
 	
 	if jump {
@@ -28,7 +32,7 @@ function player_idle_state(){
 	}
 	if jewelry {
 		state = states.RUN;
-		
+		audio_play_sound(magical_fairy_sparkles,10,false,1,,);
 	}
 	
 	//apply movement
